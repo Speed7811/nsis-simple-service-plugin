@@ -1,0 +1,13 @@
+dist/
+*.dll
+*.dcu
+*.exe
+*.identcache
+*.local
+*.dsk
+*.stat
+*.~*
+__history/
+__recovery/
+Win32/
+Win64/
